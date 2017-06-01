@@ -1,0 +1,2 @@
+python perf.py blackscholes edram_45nm_96MB_mix 8 ooo_l3
+python cache_power.py edram 32nm 96MB lp 3GHz 75C 8 16 ooo_l3

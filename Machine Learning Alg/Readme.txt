@@ -1,0 +1,1 @@
+I learned to work with Python libraries for implementing Machine Learning Algorithms during auditing MACHINE LEARNING A-Z™ course. The Python codes in this folder are based on what I've learned over the course.
